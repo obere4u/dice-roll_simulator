@@ -3,3 +3,5 @@
 This is a Dice roll simulator that was built using HTML CSS and JavaScript.
 
 It uses the dice unicode to get the dice face and update the result.
+
+Live site: <https://tochi-dice-roll-simulator.netlify.app/>
